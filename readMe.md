@@ -1,4 +1,4 @@
 npm run build
-to start project npm run preview
+to start project -  npm run preview
 
-or npm run dev  - instead
+or npm run dev  <- instead
